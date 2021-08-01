@@ -9,3 +9,4 @@ for shops, product in shopping_dict.items():
 print (f"W sumie kupiłem {len(shopping_list)} produktów")
 for shops, product in shopping_dict.items():
     print(f"W {shops} kupuje {len(product)} produktów")
+print ("Pozdrowienia z Niderlandów dla Radała Korzeniowskiego")
